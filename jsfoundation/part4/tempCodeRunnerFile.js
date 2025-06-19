@@ -1,0 +1,1 @@
+let worldCities = [...europeanCities, ...asianCities];
