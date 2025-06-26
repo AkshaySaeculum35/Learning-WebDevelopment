@@ -1,0 +1,1 @@
+limitedFunction("Hello, world!");
