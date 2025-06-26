@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #e1caca;
+  padding: 10px;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+.header ul {
+  list-style-type: none;
+  width: 450px;
+  margin: auto;
+  justify-content: space-around;
+  display: flex;
+}
+.header ul li {
+  padding: 10px;
+}
+.header .link h2 {
+  margin: 0;
+}
+.header .link {
+  text-decoration: none;
+}
+.college .link {
+  text-decoration: none;
+  font-size: 20px;
+  margin: 10px;
+}
+.active {
+  color: rgb(185, 24, 24);
+  font-size: 20px;
+}
+.custome-active {
+  color: rgb(84, 178, 210);
+  font-size: 20px;
+}

@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "akshay ",
+      "age": "22",
+      "email": "akshay@gmail.com",
+      "id": "8b81"
+    },
+    {
+      "name": "ashish",
+      "age": 31,
+      "email": "ashu@gmail.com",
+      "id": "6f18"
+    },
+    {
+      "name": "sneha",
+      "age": 21,
+      "email": "sneha@gmail.com",
+      "id": "87b6"
+    },
+    {
+      "name": "radha",
+      "age": 20,
+      "email": "radha@gmail.com",
+      "id": "287d"
+    },
+    {
+      "name": "krishna",
+      "age": 20,
+      "email": "krishna@gmail.com",
+      "id": "728e"
+    }
+  ]
+}
